@@ -1,4 +1,4 @@
-# Claude.md
+# CLAUDE.md
 
 Instructions for the AI agent in this Next.js project.
 
